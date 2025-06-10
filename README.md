@@ -48,3 +48,18 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta apre
 </p>
 
 ---
+
+<h3 align="center">🚀 Proyectos Destacados 🚀</h3>
+
+* **[Nombre del Proyecto 1](https://github.com/CVictor10/nombre-del-proyecto-1)**: Una aplicación web para la gestión de tareas con React y Flask. Incluye autenticación de usuarios y una API RESTful.
+    * [Demo en Vivo (si aplica)](https://tu-enlace-de-demo.com)
+    * **Tecnologías:** `Python`, `Flask`, `React`, `MySQL`, `HTML`, `CSS`
+
+* **[Nombre del Proyecto 2](https://github.com/CVictor10/nombre-del-proyecto-2)**: Un script de automatización en Python para analizar datos de Excel y generar informes PDF.
+    * **Tecnologías:** `Python`, `Pandas`, `ReportLab`
+
+* **[Nombre del Proyecto 3](https://github.com/CVictor10/nombre-del-proyecto-3)**: Un sitio web estático responsivo para un portafolio personal, diseñado con HTML y CSS puro.
+    * [Ver en GitHub Pages (si aplica)](https://cvictor10.github.io/nombre-del-proyecto-3/)
+    * **Tecnologías:** `HTML5`, `CSS3`, `Responsive Design`
+
+---
