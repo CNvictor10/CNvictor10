@@ -33,5 +33,6 @@
 </a>
 </p>
 
-<img align="right" width=300px alt="Unicorn" src=""/>
+<img src="./images/leon.avif" alt="León caricatura saltando" width="300" style="float: right;" />
+
 
