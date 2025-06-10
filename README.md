@@ -33,6 +33,6 @@
 </a>
 </p>
 
-<img src="./images/leon.avif" alt="León caricatura saltando" width="300" style="float: right;" />
+<img src="./lll.jpg" alt="León caricatura saltando" width="300" style="float: right;" />
 
 
