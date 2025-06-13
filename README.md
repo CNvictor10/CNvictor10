@@ -1,13 +1,13 @@
+<h1 align="center">Hi 👋, I'm Vitor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+</p>
+Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas, explorar soluciones innovadoras y construir proyectos que generen un impacto positivo.
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=%C2%A1Hola,+soy+CVictor10!;Desarrollador+de+Software;Apasionado+de+la+Tecnolog%C3%ADa;Siempre+Aprendiendo!&font=monospace&size=35&color=007ACC&center=true&vCenter=true&width=480&height=100&duration=4000&pause=1000&multiline=true" alt="¡Hola, soy CVictor10! Desarrollador de Software. Apasionado de la Tecnología. Siempre Aprendiendo.">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 </p>
 
-Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas, explorar soluciones innovadoras y construir proyectos que generen un impacto positivo.
-
----
-
+ 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <h3 align="center">💻 Tecnologías y Herramientas 🚀</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -42,7 +42,8 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta apre
 ---
 
 <h3 align="center">✨ Dato Curioso sobre mí...</h3>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 <p align="center">
   Además de programar, disfruto mucho de la lectura, escuchar música, pasar tiempo con gatos y, ¡sí, incluso programar un poco más en mi tiempo libre! 😅
 </p>
@@ -61,5 +62,10 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta apre
 * **[Nombre del Proyecto 3](https://github.com/CVictor10/nombre-del-proyecto-3)**: Un sitio web estático responsivo para un portafolio personal, diseñado con HTML y CSS puro.
     * [Ver en GitHub Pages (si aplica)](https://cvictor10.github.io/nombre-del-proyecto-3/)
     * **Tecnologías:** `HTML5`, `CSS3`, `Responsive Design`
+<br>
+<div>
 
----
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
