@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Vitor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-</p>
-Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas, explorar soluciones innovadoras y construir proyectos que generen un impacto positivo.
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 </p>
-
+<h1 align="center">Hi 👋, I'm Vitor <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+</p>
+Soy un apasionado de la tecnología y el desarrollo de software. Me encanta aprender cosas nuevas, explorar soluciones innovadoras y construir proyectos que generen un impacto positivo.
  
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <h3 align="center">💻 Tecnologías y Herramientas 🚀</h3>
