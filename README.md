@@ -20,6 +20,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Me encanta apre
 <h3 align="center">🌱 Actualmente estoy...</h3>
 
 * Continuando mi aprendizaje y profundizando en **Python**.
+* Aprendiendo Sistemas Distribuidos en Software libre como **Debian, Fedora, Linux**
 * Dedicado al emocionante proyecto: **Cristo Redentor**.
 
 ---
