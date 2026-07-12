@@ -22,9 +22,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CNVictor10&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" height="150" />
-</p>
