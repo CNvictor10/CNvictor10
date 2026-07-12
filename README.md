@@ -20,7 +20,7 @@
       <h4>Conecta conmigo</h4>
       <p>👔 <b>LinkedIn</b><br><a href="https://www.linkedin.com/in/victor-correa-noriega" target="_blank">linkedin.com/in/victor-correa-noriega</a></p>
       <p>📧 <b>Correo</b><br><a href="mailto:vc7182173@gmail.com">vc7182173@gmail.com</a></p>
-      <p>📍 <b>Ubicación</b><br>Chachapoyas, Perú</p>
+      <p>📍 <b>Ubicación</b><br>Lima, Perú</p>
     </td>
   </tr>
 </table>
