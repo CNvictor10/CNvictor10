@@ -1,9 +1,9 @@
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h1>¡Hola! Soy Víctor Correa Noriega 👋</h1>
       <h3>Candidato a Ingeniero de Sistemas e Informática</h3>
-      <p>Apasionado por la infraestructura TI, la automatización y el desarrollo de soluciones que generan impacto. Me especializo en Linux, redes, cloud y desarrollo de sistemas empresariales enfocados en optimizar procesos para importadoras y exportadoras. Siempre aprendiendo y construyendo.</p>
+      <p>Apasionado por la infraestructura TI, la automatización y el desarrollo de soluciones que generan impacto. Me especializo en Linux, redes, cloud y desarrollo de sistemas empresariales. Siempre aprendiendo y construyendo.</p>
       <br>
       <p>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> &nbsp;
@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
       </p>
     </td>
-    <td width="40%" valign="top" align="left">
+    <td width="35%" valign="top" align="left">
       <h4>Conecta conmigo</h4>
       <p>👔 <b>LinkedIn</b><br><a href="https://www.linkedin.com/in/victor-correa-noriega" target="_blank">linkedin.com/in/victor-correa-noriega</a></p>
       <p>📧 <b>Correo</b><br><a href="mailto:vc7182173@gmail.com">vc7182173@gmail.com</a></p>
@@ -22,3 +22,9 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=CNVictor10&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" height="150" />
+</p>
